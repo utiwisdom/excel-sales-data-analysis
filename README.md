@@ -21,7 +21,7 @@ perform scenario analysis, and build forecasts.
 ![Pivot](pivot-analysis.png)
 
 ### Forecast Chart
-![Forecast](forecast-chart.png)
+![Forecast](forecast-chart.png.crtx)
 
 ### Scenario Analysis
 ![Scenario](scenario-analysis.png)
